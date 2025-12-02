@@ -1,0 +1,5 @@
+{
+  "name": "Simulador de Reparación Móvil",
+  "description": "Una simulación interactiva paso a paso para aprender a cambiar la pantalla de un móvil, diseñada para estudiantes de ESO y Bachillerato con asistencia de IA.",
+  "requestFramePermissions": []
+}
